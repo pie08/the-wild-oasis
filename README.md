@@ -4,7 +4,7 @@ My favorite project ever
 
 ## Check out the production version
 
-https://the-wild-oasis-rosy.vercel.app/login
+https://the-wild-oasis-rosy.vercel.app/
 
 Use this login to gain access:
 
